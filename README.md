@@ -4,7 +4,7 @@ This repository contains the code for the [University of Edinburgh](http://www.e
 ## Links
   * [School course page](https://www.inf.ed.ac.uk/teaching/courses/dme/)
   * [University course page](http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11007.htm)
-  * [GitHub page (Labs)](https://github.com/sinziana91/DME)
+  * [GitHub page (Labs)](https://github.com/MirunaClinciu/DME)
 
 ## Labs general information
 
