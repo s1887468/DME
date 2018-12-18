@@ -3,7 +3,7 @@
 ### Miniconda ###
 
 Within this course we will be using Python 3 along with a few open-source libraries (packages). First follow the instructions for **Installing Miniconda** from the [MLP course Environment set up 
-notes](https://github.com/sinziana91/mlpractical/blob/mlp2017-8/master/notes/environment-set-up.md). If you already have Miniconda installed you can move to the next section.
+notes](https://github.com/MirunaClinciu/DME/blob/master/environment-set-up.md). If you already have Miniconda installed you can move to the next section.
 
 ### Conda environment ###
 
