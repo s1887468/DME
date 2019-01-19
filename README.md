@@ -3,7 +3,7 @@
 This repository contains the code for the [University of Edinburgh](http://www.ed.ac.uk/) [School of Informatics](http://www.ed.ac.uk/informatics/) course Data Mining and Exploration [INFR11007].
 ## Links
   * [School course page](https://www.inf.ed.ac.uk/teaching/courses/dme/)
-  * [University course page](http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11007.htm)
+  * [University course page](http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11007.htm)
   * [GitHub page (Labs)](https://github.com/MirunaClinciu/DME)
 
 ## Labs general information
@@ -31,4 +31,4 @@ The main **packages** that we will use are the following:
 * [seaborn](https://seaborn.github.io/index.html): data visualisation library which works on top of matplotlib
 
 ## Getting set up
-  Detailed instructions for setting up a development environment for the course are given in [this file](https://github.com/sinziana91/DME/blob/master/environment-set-up.md).
+  Detailed instructions for setting up a development environment for the course are given in [this file](https://github.com/MirunaClinciu/DME/blob/master/environment-set-up.md).
