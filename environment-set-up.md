@@ -26,7 +26,7 @@ We will now install the required packages:
 ```bash
 conda install jupyter numpy scipy matplotlib pandas statsmodels scikit-learn seaborn
 conda install -c conda-forge scikit-optimize
-pip install git+git://github.com/sinziana91/pca-magic.git@master
+pip install --user git+git://github.com/sinziana91/pca-magic.git@master
 ```
 
 
